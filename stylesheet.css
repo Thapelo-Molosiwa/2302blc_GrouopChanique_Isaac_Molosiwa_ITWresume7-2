@@ -3,16 +3,21 @@
     clip-path: circle();
     position: relative;
     right: 50px;
-    bottom: 35px;
+    bottom: 40px;
+}
+
+img {
+    width: 300px;
 }
 
 #name{
     text-align: center;
-    background-color: #129ca6;
+    background-color: #22b1bb;
     height: 100px;
    position: relative;
    font-family: Georgia, 'Times New Roman', Times, serif;
    color: #eee;
+   
 }
 
 #left{
@@ -21,7 +26,9 @@
     bottom:20px;
     width: 600px;
     float: left;
+    border-style: groove;
     height: 625px;
+    background-image:url(https://img.freepik.com/free-vector/blue-curve-background_53876-113112.jpg?t=st=1678275574~exp=1678276174~hmac=1527a2d5663d254272cfe54557d2c94465ba15bf901be8cb3b0a465227ae49de) ;
 }
 
 #right{
@@ -33,12 +40,12 @@
 }
 
 body{
-     background-color: #eee;
+     background-color: whitesmoke;
     border-style: double;
 }
 
 #container{
-    background-color: aliceblue;
+    background-color: whitesmoke;
     margin-left: auto;
     margin-right: auto;
 
@@ -53,7 +60,7 @@ body{
 }
 
 #footer{
-    background-color:cadetblue;
+    background-color: #22b1bb;
     position: relative;
     bottom: 38px;
     clear: both;
