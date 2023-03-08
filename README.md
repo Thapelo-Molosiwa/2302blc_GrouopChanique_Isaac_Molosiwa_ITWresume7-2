@@ -17,3 +17,6 @@ Experience - 2015/June to 2016/Jan - Merchandiser at Boxer Superstore.
  
  CSS - stylesheet.css
  I used CSS to style all my elements within HTML.
+
+
+Picture optimizing
